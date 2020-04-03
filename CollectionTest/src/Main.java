@@ -32,7 +32,10 @@ public class Main {
 		list.add(a8);
 		list.add(a9);
 		list.add(a10);
-		
+		for(Artist x:list)
+		{
+			System.out.println(x);
+		}
 		// apply your code here...
 	}
 
